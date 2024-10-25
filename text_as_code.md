@@ -426,21 +426,33 @@ https://github.com/mrhollywoodgates/text_as_code
 # Homework Walkthrough
 
 1. Create a repository ![](01_create_repo.png)
+
 ---
+
 2. Repository Details:
    
    ![h:600](02_create_repo_details.png)
+
 ---
-3. Commit and create branch
+
+3. Edit the file then click `Commit changes...`
+
+![](06_edit_the_file.png)
+ 
+---
+
+4. Commit and create branch
    
    ![h:600](03_commit_and_branch.png)
+
 ---
-4. Create pull request
+
+5. Create pull request
 
 ![](04_create_pr.png)
 
 ---
-5. Pull request details
+6. Pull request details
 
 ![h:600](05_create_pr_2.png)
 
