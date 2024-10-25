@@ -5,7 +5,6 @@ class: invert
 paginate: true
 size: 16:9
 
-
 ---
 
 <style>
@@ -20,6 +19,7 @@ ul, ol {
 
 # Text As Code
 Alex Schumacher
+
 <!-- Or why old computer nerds are angry at emoji. 
 
 Not talking about learning a computer language, 
@@ -412,6 +412,14 @@ Demo and homework
       3. Links
       4. Table of Contents
 5. Merge the branch into the `main` branch
+
+
+---
+
+# Thanks!
+
+Full presentation available at:
+https://github.com/mrhollywoodgates/text_as_code
 
 
 ---
